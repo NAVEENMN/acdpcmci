@@ -1,0 +1,22 @@
+{
+    "simulation": "springs",
+    "num_train": 1000,
+    "num_valid": 100,
+    "num_test": 1000,
+    "length": 5000,
+    "sample_freq": 100,
+    "n_balls": 5,
+    "seed": 42,
+    "datadir": "data",
+    "temperature": 0.1,
+    "temperature_dist": false,
+    "temperature_alpha": null,
+    "temperature_num_cats": null,
+    "undirected": false,
+    "fixed_particle": false,
+    "influencer_particle": false,
+    "confounder": false,
+    "uninfluenced_particle": false,
+    "fixed_connectivity": false,
+    "length_test": 10000
+}
